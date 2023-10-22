@@ -1,1 +1,4 @@
-How to in
+How to instal PostgreSQL
+
+Steps :
+1. 
