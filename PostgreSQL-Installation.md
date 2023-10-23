@@ -19,4 +19,6 @@ Steps :
 16. Kemudian klik next dan tunggu sampai instalasi selesai
     ![image](https://github.com/rifanaghniii/pertemuan1-basis-data/assets/148309225/8369f209-c4d2-41c0-8e41-3645e6acac21)
 18. Hasil Installasi :
+    ![image](https://github.com/rifanaghniii/pertemuan1-basis-data/assets/148309225/e9ff10fb-491d-49e7-9b38-9554a2dfccdd)
+
    
