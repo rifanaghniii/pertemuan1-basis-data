@@ -1,6 +1,7 @@
 How to instal Dbeaver
 
 Steps :
+https://dbeaver.io/download/
 1. Kunjungi Situs Resmi DBeaver:
 Buka peramban web Anda dan pergi ke situs web resmi DBeaver di https://dbeaver.io/download/. Pastikan Anda mengunjungi situs resmi untuk menghindari mengunduh perangkat lunak dari sumber yang tidak terpercaya.
 
