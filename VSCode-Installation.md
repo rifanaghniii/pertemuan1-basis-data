@@ -1,7 +1,7 @@
 How to Instal VSCode
 
 Steps :
-1. Download VSCode Installer : [linlk](https://code.visualstudio.com/)
+1. Download VSCode Installer : [link](https://code.visualstudio.com/)
 2. Pilih file installer sesuia dengan perangkat yang digunakan
 3. Setelah file berhasil didownload, kemudian jalankan file untuk memulai instalasi
 4. Ceklis pada bagian persetujuan
