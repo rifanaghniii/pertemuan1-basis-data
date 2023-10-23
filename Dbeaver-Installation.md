@@ -13,4 +13,5 @@ Steps :
 9. Pilih folder untuk penyimpanan instalasi
 10. Kemudian klik instal dan tunggu sampai proses installasi selesai
 11.  Hasil Installasi :
-    
+    ![image](https://github.com/rifanaghniii/pertemuan1-basis-data/assets/148309225/fd316833-b815-4148-a6a1-4f62a9b2d3c8)
+
